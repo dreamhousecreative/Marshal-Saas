@@ -17,7 +17,7 @@ export async function Navbar() {
       <div className="container flex items-center justify-between">
         <Link href="/">
           <h1 className="font-bold text-3xl">
-            Marshal<span className="text-primary">Saas</span>
+            Case<span className="text-primary">Chat.AI</span>
           </h1>
         </Link>
 

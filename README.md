@@ -1,3 +1,6 @@
+- CaseChat.AI -
+
+
 🚀 Build a SaaS Application using Next.js 14, Stripe, Kinde, Prisma, Supabase, and Tailwind! Learn step-by-step and elevate your development skills. 
 
 - 🚀 Kinde Auth: https://dub.sh/xeU8r3v

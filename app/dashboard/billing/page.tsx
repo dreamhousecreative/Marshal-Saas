@@ -18,11 +18,11 @@ import {
 import { unstable_noStore as noStore } from "next/cache";
 
 const featureItems = [
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
-  { name: "Lorem Ipsum something" },
+  { name: "BASIC" },
+  { name: "Up to 1,000 pages or 50,000 words per month" },
+  { name: "Overages: $0.08 per additional page or $0.004 per additional word" },
+  { name: "Insightful monthly usage and trend reports" },
+  { name: "Unused words/pages roll over to next month" },
 ];
 
 async function getData(userId: string) {
@@ -97,7 +97,7 @@ export default async function BillingPage() {
           <div className="grid gap-1">
             <h1 className="text-3xl md:text-4xl ">Subscription</h1>
             <p className="text-lg text-muted-foreground">
-              Settings reagding your subscription
+              Settings reagding your CaseChats subscription
             </p>
           </div>
         </div>
